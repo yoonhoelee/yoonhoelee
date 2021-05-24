@@ -14,7 +14,7 @@
 [Backend] Python Django, Flask
 [Database] Postgresql, Mysql, Nosql
 
-# Currently studying/ interested in
+### Currently studying/ interested in
 [Backend] Java Spring
 
 
@@ -61,5 +61,4 @@ Kaggle의 [Song Lyrics Dataset](https://www.kaggle.com/deepshah16/song-lyrics-da
 
 
 ## Languages
-* 영어 TOEIC 990 (2017.10.29)
-       TOEFL 117 (2012.04.22)
+* 영어 TOEIC 990 (2017.10.29), TOEFL 117 (2012.04.22)
