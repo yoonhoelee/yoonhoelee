@@ -1,12 +1,14 @@
-# Backend Developer 이윤회(Adam)
+# 이윤회(Adam)
 * 📲 Mobile: 010-7379-7818
 * 📧 E-mail: ubrain0624@gmail.com
 * 🏠 Study Blog:  [Link](https://ubrain0624.medium.com/)
 
 
+
 ## Core Competency
 * 음악 유통사에서 일하면서 음원 스트리밍 플렛폼 데이터 전처리 및 시각화 경험
 * 새로운 기술을 받아 들이는 것에 대한 열정
+
 
 
 ## Skills
@@ -17,10 +19,6 @@
 ### Currently studying/ interested in
 [Backend] Java Spring
 
-
-## Training
-### 코드스테이츠 (Code States)
-Data Science Bootcamp(1기) [코드스테이츠 커리큘럼](https://www.codestates.com/course/ai)
 
 
 ## Projects
@@ -44,6 +42,7 @@ Kaggle의 [Song Lyrics Dataset](https://www.kaggle.com/deepshah16/song-lyrics-da
 * [Web-app deployed on Heroku](https://tweetcomparison.herokuapp.com/)
 
 
+
 ## Experiences
 ### Sony Music Entertainment Korea Intern (2018.04~2019.02)
 * 방한 아티스트 온그라운드 지원
@@ -55,9 +54,11 @@ Kaggle의 [Song Lyrics Dataset](https://www.kaggle.com/deepshah16/song-lyrics-da
 * 소니 뮤직과 국내 DSP(멜론, 지니, FLO, 벅스, 네이버 바이브)간 음원 직전송 SFTP 서버 구축 및 운영에 참여
 
 
+
 ## Education
 * 중앙대학교 경제학, 정치국제학 복수전공 (2013.03 ~ 2019.02)
 * Turku School of Economics 교환학생 (2017.01 ~ 05)
+
 
 
 ## Languages
