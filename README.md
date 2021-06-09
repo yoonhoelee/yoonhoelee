@@ -34,7 +34,6 @@ Kaggle의 [Fake and real news dataset](https://www.kaggle.com/clmentbisaillon/fa
 ### 딥러닝 가사생성 웹어플리케이션 (2021.02 ~ 03)
 Kaggle의 [Song Lyrics Dataset](https://www.kaggle.com/deepshah16/song-lyrics-dataset)을 기반으로 한 가사 생성 웹어플리케이션 개발
 * 활용 기술 스택: Frontend(HTML), Backend(Python Django), Model(Tensorflow Bidirectional LSTM)
-* [Web-app deployed on Heroku](https://lyric-generation.herokuapp.com/)
 
 ### 트윗 예측 웹어플리케이션 (2020.12)
 트위터 API를 활용해 DB에 특정 유저의 트윗 저장 및 어떤 유저가 트윗을 할 확률이 높을지 예측하는 웹 어플리케이션 개발
