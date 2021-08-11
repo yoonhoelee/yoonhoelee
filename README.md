@@ -1,5 +1,4 @@
 # 이윤회(Adam)
-* 📲 Mobile: 010-7379-7818
 * 📧 E-mail: ubrain0624@gmail.com
 * 🏠 Study Blog:  [Link](https://ubrain0624.medium.com/)
 
