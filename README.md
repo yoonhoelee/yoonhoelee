@@ -11,16 +11,20 @@
 
 
 ## Skills
+[Backend] Java Spring, Python Django, Flask
 [Machine Learning] Scikit-learn, Tensorflow(CNN, RNN)
-[Backend] Python Django, Flask
-[Database] Postgresql, Mysql, Nosql
 
 ### Currently studying/ interested in
-[Backend] Java Spring
+* CI/CD tools(Jenkins), Messaging Queue(Rabbit MQ), Load Balancing(Nginx)
 
 
 
 ## Projects
+### 스포티파이 추천 웹어플리케이션 (2021.08 ~ 09)
+스포티파이의 [API](https://developer.spotify.com/documentation/web-api/)를 활용해 유저의 스포티파이 선호 아티스트 확인 및, Kaggle에 제공 된 [스포티파이 차드 데이터](https://www.kaggle.com/sashankpillai/spotify-top-200-charts-20202021)를 활용한 노래 추천이 가능한 웹 어플리케이션.
+* 활용 기술 스택: Frontend(Thymeleaf, Basic Javascript and css), Backend(Java Spring Boot), Database(MySql 8)
+* [Web-app deployed on AWS Elastic Beanstalk](http://spotifyrecommendation-env.eba-mqmmdyum.ap-northeast-2.elasticbeanstalk.com/)
+
 ### 심플리오 세일즈 데이터 데시보드 (2021.04 ~ 05)
 온라인 화장품 커머스 스타트업 [심플리오](https://www.simplyo.com/)의 세일즈 데이터를 데시보드화
 * 활용 기술 스택: Frontend(JavaScript, HTML, Css), Backend(Python Django)
@@ -33,6 +37,7 @@ Kaggle의 [Fake and real news dataset](https://www.kaggle.com/clmentbisaillon/fa
 ### 딥러닝 가사생성 웹어플리케이션 (2021.02 ~ 03)
 Kaggle의 [Song Lyrics Dataset](https://www.kaggle.com/deepshah16/song-lyrics-dataset)을 기반으로 한 가사 생성 웹어플리케이션 개발
 * 활용 기술 스택: Frontend(HTML), Backend(Python Django), Model(Tensorflow Bidirectional LSTM)
+* [Web-app deployed on Heroku](https://lyric-generation.herokuapp.com/)
 
 ### 트윗 예측 웹어플리케이션 (2020.12)
 트위터 API를 활용해 DB에 특정 유저의 트윗 저장 및 어떤 유저가 트윗을 할 확률이 높을지 예측하는 웹 어플리케이션 개발
