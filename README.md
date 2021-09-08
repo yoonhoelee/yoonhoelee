@@ -12,6 +12,7 @@
 
 ## Skills
 [Backend] Java Spring, Python Django, Flask
+
 [Machine Learning] Scikit-learn, Tensorflow(CNN, RNN)
 
 ### Currently studying/ interested in
@@ -51,7 +52,7 @@ Kaggle의 [Song Lyrics Dataset](https://www.kaggle.com/deepshah16/song-lyrics-da
 * 방한 아티스트 온그라운드 지원
 * 소니 뮤직 아티스트 스트림 데이터 전처리(R)와 시각화(R, Tableau)
 
-### Sony Music Entertainment Korea Digital Operations/Data Analysis
+### Sony Music Entertainment Korea Digital Operations/Data Analysis (2019.03~2020.07)
 * 소니 뮤직 아티스트 스트림 데이터 전처리(R)와 시각화(R, Tableau)
 * 소니 뮤직 코리아 아티스트 유통 아티스트 음원 발매 및 모니터링
 * 소니 뮤직과 국내 DSP(멜론, 지니, FLO, 벅스, 네이버 바이브)간 음원 직전송 SFTP 서버 구축 및 운영에 참여
