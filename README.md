@@ -16,7 +16,7 @@
 [Machine Learning] Scikit-learn, Tensorflow(CNN, RNN)
 
 ### Currently studying/ interested in
-* CI/CD tools(Jenkins), Messaging Queue(Rabbit MQ), Load Balancing(Nginx)
+* Cloud Computing(AWS, GCP), CI/CD tools(Jenkins), Messaging Queue(Rabbit MQ), Load Balancing(Nginx)
 
 
 
