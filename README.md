@@ -22,7 +22,7 @@
 
 ## Projects
 ### 스포티파이 추천 웹어플리케이션 (2021.08 ~ 09)
-스포티파이의 [API](https://developer.spotify.com/documentation/web-api/)를 활용해 유저의 스포티파이 선호 아티스트 확인 및, Kaggle에 제공 된 [스포티파이 차드 데이터](https://www.kaggle.com/sashankpillai/spotify-top-200-charts-20202021)를 활용한 노래 추천이 가능한 웹 어플리케이션.
+스포티파이의 [API](https://developer.spotify.com/documentation/web-api/)를 활용해 유저의 스포티파이 선호 아티스트 확인 및, Kaggle에 제공 된 [스포티파이 차트 데이터](https://www.kaggle.com/sashankpillai/spotify-top-200-charts-20202021)를 활용한 노래 추천이 가능한 웹 어플리케이션.
 * 활용 기술 스택: Frontend(Thymeleaf, Basic Javascript and css), Backend(Java Spring Boot), Database(MySql 8)
 * [Web-app deployed on AWS Elastic Beanstalk](http://spotifyrecommendation-env.eba-mqmmdyum.ap-northeast-2.elasticbeanstalk.com/)
 
