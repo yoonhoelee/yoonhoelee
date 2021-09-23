@@ -59,7 +59,7 @@ Kaggle의 [Song Lyrics Dataset](https://www.kaggle.com/deepshah16/song-lyrics-da
 
 
 ## Education
-* 중앙대학교 경제학, 정치국제학 복수전공 (2013.03 ~ 2019.02)
+* 중앙대학교 경제학, 정치국제학 복수전공 (2013.03 ~ 2020.02)
 * Turku School of Economics 교환학생 (2017.01 ~ 05)
 
 
