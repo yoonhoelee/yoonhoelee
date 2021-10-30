@@ -17,7 +17,7 @@
 [Machine Learning] Scikit-learn, Tensorflow(CNN, RNN)
 
 ### Currently studying/ interested in
-* Java Vert.X, Cloud Computing(AWS, GCP), CI/CD tools(Jenkins), Messaging Queue(Rabbit MQ), Load Balancing(Nginx)
+* Java Vert.X, Asynchronous Programming, Kubernetes
 
 
 
