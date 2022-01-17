@@ -1,6 +1,6 @@
 # 이윤회(Adam)
 * 📧 E-mail: ubrain0624@gmail.com
-* 🏠 Study Blog:  [Link](https://ubrain0624.medium.com/)
+* 🏠 Study Blog:  [Link](https://velog.io/@ubrain)
 
 
 
