@@ -17,7 +17,7 @@
 [Machine Learning] Scikit-learn, Tensorflow(CNN, RNN)
 
 ### Currently studying/ interested in
-* Java Vert.X, Asynchronous Programming, Kubernetes
+* Java Vert.X, Asynchronous Programming, Kubernetes, Golang
 
 
 
