@@ -15,6 +15,7 @@
 [Backend] Java Spring, Vert.x & Python Django, Flask
 
 [Machine Learning] Scikit-learn, Tensorflow(CNN, RNN)
+[DevOps] Kubernetes, Docker
 
 ### Currently studying/ interested in
 * Java Vert.X, Asynchronous Programming, Kubernetes, Golang
