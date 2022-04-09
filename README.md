@@ -15,7 +15,7 @@
 [Backend] Java Spring, Vert.x & Python Django, Flask
 
 [Machine Learning] Scikit-learn, Tensorflow(CNN, RNN)
-[DevOps] Kubernetes, Docker
+[DevOps] Kubernetes, Docker, AWS
 
 ### Currently studying/ interested in
 * Java Vert.X, Asynchronous Programming, Kubernetes, Golang
@@ -60,6 +60,7 @@ Kaggle의 [Song Lyrics Dataset](https://www.kaggle.com/deepshah16/song-lyrics-da
 
 ### Tardis Technology Backend Developer (2021.10~)
 * 전기차 충전기 관리 시스템(CSMS) 백엔드 서버 개발 및 유지 보수(Java Vert.x)
+* 모놀리딕 구조의 프로젝트 MSA 환경으로 전환 및 
 
 ## Education
 * 중앙대학교 경제학, 정치국제학 복수전공 (2013.03 ~ 2020.02)
