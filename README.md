@@ -7,7 +7,7 @@
 ## Core Competency
 * 음악 유통사에서 일하면서 음원 스트리밍 플렛폼 데이터 전처리 및 시각화 경험
 * 새로운 기술을 받아 들이는 것에 대한 열정
-*  현 타디스테크놀로지 백엔드 개발자
+*  현 타디스테크놀로지 백엔드/데브옵스 개발자
 
 
 
@@ -15,10 +15,11 @@
 [Backend] Java Spring, Vert.x & Python Django, Flask
 
 [Machine Learning] Scikit-learn, Tensorflow(CNN, RNN)
+
 [DevOps] Kubernetes, Docker, AWS
 
 ### Currently studying/ interested in
-* Java Vert.X, Asynchronous Programming, Kubernetes, Golang
+* Java Vert.X, Asynchronous Programming, Kubernetes, Golang, Javascript
 
 
 
