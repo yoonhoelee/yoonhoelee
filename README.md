@@ -7,7 +7,8 @@
 ## Core Competency
 * 음악 유통사에서 일하면서 음원 스트리밍 플렛폼 데이터 전처리 및 시각화 경험
 * 새로운 기술을 받아 들이는 것에 대한 열정
-*  현 타디스테크놀로지 백엔드/데브옵스 개발자
+*  전 타디스테크놀로지 백엔드/데브옵스 개발자
+*  현 턴백 백엔드 개발자
 
 
 
@@ -19,7 +20,7 @@
 [DevOps] Kubernetes, Docker, AWS
 
 ### Currently studying/ interested in
-* Java Vert.X, Asynchronous Programming, Kubernetes, Golang, Javascript
+* Java Spring, Spring Security, Asynchronous Programming, Kubernetes, Javascript React
 
 
 
@@ -59,9 +60,12 @@ Kaggle의 [Song Lyrics Dataset](https://www.kaggle.com/deepshah16/song-lyrics-da
 * 소니 뮤직 코리아 아티스트 유통 아티스트 음원 발매 및 모니터링
 * 소니 뮤직과 국내 DSP(멜론, 지니, FLO, 벅스, 네이버 바이브)간 음원 직전송 SFTP 서버 구축 및 운영에 참여
 
-### Tardis Technology Backend Developer (2021.10~)
+### Tardis Technology Backend Developer (2021.10 ~ 2022.05)
 * 전기차 충전기 관리 시스템(CSMS) 백엔드 서버 개발 및 유지 보수(Java Vert.x)
-* 모놀리딕 구조의 프로젝트 MSA 환경으로 전환 및 
+* 모놀리딕 구조의 프로젝트 MSA 환경으로 전환 및 쿠버네티스 환겨 도입
+
+### Turnbag Backend Developer (2022.06~)
+* 중고 명품 경매 어플리케이션 턴백 개발 및 유지 보수(Java Spring)
 
 ## Education
 * 중앙대학교 경제학, 정치국제학 복수전공 (2013.03 ~ 2020.02)
