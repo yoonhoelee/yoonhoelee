@@ -20,7 +20,7 @@
 [DevOps] Kubernetes, Docker, AWS
 
 ### Currently studying/ interested in
-* Java Spring, Spring Security, Asynchronous Programming, Kubernetes, Javascript React
+* Java Spring, Spring Security, Asynchronous Programming, Kubernetes, TypeScript, React-Native
 
 
 
