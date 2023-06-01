@@ -8,19 +8,22 @@
 * 음악 유통사에서 일하면서 음원 스트리밍 플렛폼 데이터 전처리 및 시각화 경험
 * 새로운 기술을 받아 들이는 것에 대한 열정
 *  전 타디스테크놀로지 백엔드/데브옵스 개발자
-*  현 턴백 백엔드 개발자
+*  전 턴백 백엔드 개발자
+*  현 덕앤덕클링 풀스택 개발자
 
 
 
 ## Skills
-[Backend] Java Spring, Vert.x & Python Django, Flask
+[Backend] Nest Javascript, Java Spring, Java Vert.x, Python Django, Python Flask
+
+[Frontend] Flutter
 
 [Machine Learning] Scikit-learn, Tensorflow(CNN, RNN)
 
 [DevOps] Kubernetes, Docker, AWS
 
 ### Currently studying/ interested in
-* Java Spring, Spring Security, Asynchronous Programming, Kubernetes, TypeScript, React-Native
+* Java Spring, Nest Javascript, Kubernetes, Flutter, 
 
 
 
@@ -64,8 +67,14 @@ Kaggle의 [Song Lyrics Dataset](https://www.kaggle.com/deepshah16/song-lyrics-da
 * 전기차 충전기 관리 시스템(CSMS) 백엔드 서버 개발 및 유지 보수(Java Vert.x)
 * 모놀리딕 구조의 프로젝트 MSA 환경으로 전환 및 쿠버네티스 환겨 도입
 
-### Turnbag Backend Developer (2022.06~)
-* 중고 명품 경매 어플리케이션 턴백 개발 및 유지 보수(Java Spring)
+### Turnbag Backend Developer (2022.06 ~ 2023.01)
+* 개발팀장으로 턴백 어플리케이션 개발 및 유지보수.
+* [유저간 직접 거래를 할 수 있는 버전 2.0의 앱의 서버 개발 담당.](https://www.ktnews.com/news/articleView.html?idxno=126733)
+* 카카오톡 전송, 유저 자동 정지 등 자동화 서버 구축.
+* 유저와 거래 관련 통계 대시보드 제작.
+
+### Duck&Duckling Fullstack Developer (2023.05 ~ )
+* 덕앤덕클링 풀스택 개발자로 기비티 앱 & 어드민 개발(Flutter & NestJs)
 
 ## Education
 * 중앙대학교 경제학, 정치국제학 복수전공 (2013.03 ~ 2020.02)
