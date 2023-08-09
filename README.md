@@ -9,7 +9,8 @@
 * 새로운 기술을 받아 들이는 것에 대한 열정
 *  전 타디스테크놀로지 백엔드/데브옵스 개발자
 *  전 턴백 백엔드 개발자
-*  현 덕앤덕클링 풀스택 개발자
+*  전 덕앤덕클링 풀스택 개발자
+*  현 J&K 풀스택 개발자
 
 
 
@@ -73,8 +74,11 @@ Kaggle의 [Song Lyrics Dataset](https://www.kaggle.com/deepshah16/song-lyrics-da
 * 카카오톡 전송, 유저 자동 정지 등 자동화 서버 구축.
 * 유저와 거래 관련 통계 대시보드 제작.
 
-### Duck&Duckling Fullstack Developer (2023.05 ~ )
+### Duck&Duckling Fullstack Developer (2023.05 ~ 2023.07)
 * 덕앤덕클링 풀스택 개발자로 기비티 앱 & 어드민 개발(Flutter & NestJs)
+
+### J&K (2023.08 ~)
+* J&K 백앤드 개발자로 기존 서버 스프링으로 리뉴얼 작업 진행
 
 ## Education
 * 중앙대학교 경제학, 정치국제학 복수전공 (2013.03 ~ 2020.02)
