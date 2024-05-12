@@ -74,10 +74,8 @@ Kaggle의 [Song Lyrics Dataset](https://www.kaggle.com/deepshah16/song-lyrics-da
 * 카카오톡 전송, 유저 자동 정지 등 자동화 서버 구축.
 * 유저와 거래 관련 통계 대시보드 제작.
 
-### Duck&Duckling Fullstack Developer (2023.05 ~ 2023.07)
-* 덕앤덕클링 풀스택 개발자 (Flutter & NestJs)
 
-### JK (2023.08 ~)
+### JK (2023.07 ~)
 * JK 백앤드 개발자로 기존 서버 스프링으로 리뉴얼 작업 진행
 
 ## Education
