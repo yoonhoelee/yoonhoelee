@@ -4,24 +4,18 @@
 
 
 
-## Core Competency
-* 음악 유통사에서 일하면서 음원 스트리밍 플렛폼 데이터 전처리 및 시각화 경험
-* 새로운 기술을 받아 들이는 것에 대한 열정
-*  전 타디스테크놀로지 백엔드/데브옵스 개발자
-*  전 턴백 백엔드 개발자
-*  전 덕앤덕클링 풀스택 개발자
-*  현 JK 풀스택 개발자
-
+## Self-Intro
+안녕하세요, 저는 지속적인 학습과 개발에 대한 열정을 가지고 있는 풀스택 개발자입니다. 
+더 좋은 개발자가 되기 위하여 최신 기술 동향을 따라가고, 새로운 프로그래밍 언어와 프레임워크를 배우는 것을 즐깁니다. 
+이러한 호기심과 배움의 자세는 저를 끊임없이 도전하게 만들며, 이를 통해 개발자로서 더욱 성장할 수 있는 기회를 찾게 됩니다. 
+팀 내에서의 협업을 중시하며, 동료들과 지식을 공유하고 서로를 격려하는 환경에서 일하기를 희망합니다.
 
 
 ## Skills
-[Backend] Nest Javascript, Java Spring, Java Vert.x, Python Django, Python Flask
+[Backend] Java Spring, Java Vert.x, Nest Javascript
 
 [Frontend] Flutter, React
 
-[DevOps] Kubernetes, Docker, AWS
-
-[Machine Learning] Scikit-learn, Tensorflow(CNN, RNN)
 
 ### Currently studying/ interested in
 * Java Spring, React, Kubernetes, Flutter
@@ -29,18 +23,15 @@
 
 
 ## Experiences
-### Sony Music Entertainment Korea Intern (2018.04~2019.02)
-* 방한 아티스트 온그라운드 지원
-* 소니 뮤직 아티스트 스트림 데이터 전처리(R)와 시각화(R, Tableau)
 
-### Sony Music Entertainment Korea Digital Operations/Data Analysis (2019.03~2020.07)
+### Sony Music Entertainment Korea Digital Operations/Data Analysis (2018.04~~2020.07)
 * 소니 뮤직 아티스트 스트림 데이터 전처리(R)와 시각화(R, Tableau)
 * 소니 뮤직 코리아 아티스트 유통 아티스트 음원 발매 및 모니터링
 * 소니 뮤직과 국내 DSP(멜론, 지니, FLO, 벅스, 네이버 바이브)간 음원 직전송 SFTP 서버 구축 및 운영에 참여
 
 ### Tardis Technology Backend Developer (2021.10 ~ 2022.05)
 * 전기차 충전기 관리 시스템(CSMS) 백엔드 서버 개발 및 유지 보수(Java Vert.x)
-* 모놀리딕 구조의 프로젝트 MSA 환경으로 전환 및 쿠버네티스 환겨 도입
+* 모놀리딕 구조의 프로젝트 MSA 환경으로 전환 및 쿠버네티스 환경 도입
 
 ### Turnbag Backend Developer (2022.06 ~ 2023.01)
 * 개발팀장으로 턴백 어플리케이션 개발 및 유지보수.
@@ -55,31 +46,6 @@
 ## Education
 * 중앙대학교 경제학, 정치국제학 복수전공 (2013.03 ~ 2020.02)
 * Turku School of Economics 교환학생 (2017.01 ~ 05)
-
-
-  
-
-## Projects
-### 스포티파이 추천 웹어플리케이션 (2021.08 ~ 09)
-스포티파이의 [API](https://developer.spotify.com/documentation/web-api/)를 활용해 유저의 스포티파이 선호 아티스트 확인 및, Kaggle에 제공 된 [스포티파이 차트 데이터](https://www.kaggle.com/sashankpillai/spotify-top-200-charts-20202021)를 활용한 노래 추천이 가능한 웹 어플리케이션.
-* 활용 기술 스택: Frontend(Thymeleaf, Basic Javascript and css), Backend(Java Spring Boot), Database(MySql 8)
-* Currently takendown due to payment issues
-
-### 심플리오 세일즈 데이터 데시보드 (2021.04 ~ 05)
-온라인 화장품 커머스 스타트업 [심플리오](https://www.simplyo.com/)의 세일즈 데이터를 데시보드화
-* 활용 기술 스택: Frontend(JavaScript, HTML, Css), Backend(Python Django)
-
-### 가짜뉴스 판독 웹어플리케이션 (2021.03 ~ 04)
-Kaggle의 [Fake and real news dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)를 활용해 가짜뉴스와 진짜뉴스를 판독할 수 있는 웹어플리케이션 개발
-* 활용 기술 스택: Frontend(HTML), Backend(Python Django), Model(RandomForest Classifier)
-
-### 딥러닝 가사생성 웹어플리케이션 (2021.02 ~ 03)
-Kaggle의 [Song Lyrics Dataset](https://www.kaggle.com/deepshah16/song-lyrics-dataset)을 기반으로 한 가사 생성 웹어플리케이션 개발
-* 활용 기술 스택: Frontend(HTML), Backend(Python Django), Model(Tensorflow Bidirectional LSTM)
-
-### 트윗 예측 웹어플리케이션 (2020.12)
-트위터 API를 활용해 DB에 특정 유저의 트윗 저장 및 어떤 유저가 트윗을 할 확률이 높을지 예측하는 웹 어플리케이션 개발
-* 활용 기술 스택: Frontend(HTML, CSS), Backend(Python Flask), Model(Scikit-learn Logistic Regression), Database(Postgresql)
 
 
 ## Languages
